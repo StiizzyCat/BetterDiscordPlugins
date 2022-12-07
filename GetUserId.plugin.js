@@ -4,7 +4,7 @@
  * @description Click on ur pfp to get your userid!
  * @authorLink https://github.com/StiizzyCat
  * @version 0.0.1
- * @source 
+ * @source https://github.com/StiizzyCat/BetterDiscordPlugins/blob/main/GetUserId.plugin.js
  */
 module.exports = class ExamplePlugin {
     start() {
